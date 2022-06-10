@@ -10,28 +10,22 @@ const sidebarNavItems = [
     section: "",
   },
   {
-    display: "Getting Started",
+    display: "BarChart",
     icon: <i className="bx bx-star"></i>,
-    to: "/started",
-    section: "started",
+    to: "/barchart",
+    section: "barchart",
   },
   {
-    display: "Calendar",
-    icon: <i className="bx bx-calendar"></i>,
-    to: "/calendar",
-    section: "calendar",
+    display: "PieChart",
+    icon: <i className="bx bx-star"></i>,
+    to: "/piechart",
+    section: "piechart",
   },
   {
-    display: "User",
+    display: "AreaChart",
     icon: <i className="bx bx-user"></i>,
-    to: "/user",
-    section: "user",
-  },
-  {
-    display: "Orders",
-    icon: <i className="bx bx-receipt"></i>,
-    to: "/order",
-    section: "order",
+    to: "/areachart",
+    section: "areachart",
   },
 ];
 
